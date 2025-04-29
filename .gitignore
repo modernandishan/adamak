@@ -24,3 +24,15 @@ yarn-error.log
 .idea
 *.log
 *.sqlite
+/vendor/
+node_modules/
+bootstrap/compiled.php
+app/storage/
+public/storage
+public/hot
+public_html/storage
+public_html/hot
+storage/*.key
+/.vagrant
+auth.json
+
